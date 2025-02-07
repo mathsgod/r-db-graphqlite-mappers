@@ -8,6 +8,7 @@
         }
     ],
     "require-dev": {
+        "php": ">=8.1",
         "mathsgod/r-db": "^5.9"
     },
     "require": {
